@@ -1,6 +1,6 @@
 # Gestion des Animaux
 
-|-- include
+<pre>|-- include
 |   |-- Animal.h
 |   |-- Mammifere.h
 |   |-- Oiseau.h
@@ -11,7 +11,7 @@
 |   |-- Oiseau.cpp
 |   |-- Reptile.cpp
 |-- main.cpp
-|-- CMakeLists.txt
+|-- CMakeLists.txt<pre>
 
 Ce projet est une implémentation simple d'une hiérarchie de classes pour gérer différents types d'animaux. Il comprend une classe de base `Animal` ainsi que des classes dérivées pour des types spécifiques d'animaux tels que les mammifères, les oiseaux et les reptiles.
 
