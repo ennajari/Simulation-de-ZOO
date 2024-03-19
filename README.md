@@ -43,5 +43,5 @@ g++ main.cpp -o gestion_animaux
 Contributions
 Les contributions sont les bienvenues! Si vous souhaitez contribuer à ce projet, veuillez ouvrir une nouvelle demande d'extraction avec vos modifications.
 
-Auteur
+<h1>Auteur</h2>
 Ce projet a été développé par @ennajari .
